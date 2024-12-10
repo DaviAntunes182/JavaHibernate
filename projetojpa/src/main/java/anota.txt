@@ -1,0 +1,4 @@
+Problemas surgiram no JDBC:
+
+    Código muito verboso
+    Alto acoplamento com banco de dados
